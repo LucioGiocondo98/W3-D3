@@ -1,0 +1,18 @@
+.task-to-delete{
+    text-align: center;
+    margin-top: 10px;
+    
+
+}
+.task-to-delete td{
+    border: 4px solid black;
+    text-decoration: line-through;
+
+    
+}
+body{
+    text-align: center;
+}
+#for-new-task{
+    text-align: center;
+}
